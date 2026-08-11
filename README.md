@@ -1,7 +1,7 @@
-A silly 17-years old demigirl who really likes to code and compile software.
-Also good at using Termux.
+A silly 17-years old demigirl who really likes to code and compile software.<br>
+Also good at using Termux.<br><br>
 
-Discord: themightyarie
+Discord: themightyarie<br>
 X: them1ghty4r1e
 <!--
 **AngerRandom/AngerRandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
