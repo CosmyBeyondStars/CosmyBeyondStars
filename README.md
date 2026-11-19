@@ -1,4 +1,4 @@
-A silly 17-years old who really likes to code and compile software.<br>
+A silly 18-years old who really likes to code and compile software.<br>
 Also good at using Termux.<br><br>
 
 Discord: cosmybeyondstars
